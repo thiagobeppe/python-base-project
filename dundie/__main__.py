@@ -1,4 +1,4 @@
 
-if __name__ == "__main__":
-    print("Be welcome to Dundie Rewards")
+def main():
+    print("execution dundie from entry_point")
     
